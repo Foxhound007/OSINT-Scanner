@@ -83,8 +83,7 @@ Icons (✅, ❌, ⚠️) help highlight severity at a glance.
 ---
 
 ## 🧠 Use Cases
-
-- Interview discussion tool  
+  
 - Red team recon starter  
 - Risk reports for client onboarding  
 - Audit prep or compliance snapshot
